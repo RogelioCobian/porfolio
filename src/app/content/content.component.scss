@@ -1,0 +1,91 @@
+#About
+{
+  padding: 4vh 0;
+  background-color: #121212;
+  color: #b7b7b7;
+  h3
+  {
+    font-weight: 600;
+  }
+
+  p
+  {
+    padding-top: 2vh;
+    font-weight: 600;
+  }
+  dt
+  {
+    padding-top: 2vh;
+  }
+  dd
+  {
+  font-size: .75rem;
+  line-height: .9rem;
+  color: inherit;
+  padding: 0;
+  margin: 0;
+  font-weight: 600;
+  }
+  h6
+  {
+    font-weight: 600;
+  }
+  .col-sm-12
+  {
+    padding: 4vh 6vw;
+  }
+}
+
+
+#Examples
+{
+  color: #d7d7d7;
+  // text-shadow: 1.5px 1.5px whitesmoke;
+  background-color: #181818;
+  .squares
+  {
+    height: 65vh;
+  }
+  .text
+  {
+    padding: 10vw;
+  }
+  #One
+  {
+    background-image: url("./../../assets/img/phq-9.gif");
+    background-size: 100% 100%;
+  }
+
+  #Two
+  {
+    background-image: url("./../../assets/img/old-portfolio.gif");
+    background-size: 100% 100%;
+  }
+
+
+  #Three
+  {
+    background-image: url("./../../assets/img/recipe-book.gif");
+    background-size: 100% 100%;
+  }
+}
+
+#Pictures
+{
+  background-color: #eaeaea;
+  padding: 10vw;
+  img
+  {
+    border-radius: 50%;
+    height: 66%;
+    width: 50%;
+  }
+  h3
+  {
+    margin-bottom: 1em;
+  }
+  h5
+  {
+    margin-bottom: 1em;
+  }
+}

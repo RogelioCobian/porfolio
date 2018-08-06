@@ -1,0 +1,36 @@
+#Nav
+{
+  color: #e0dfdd;
+}
+
+#Banner
+{
+  color: #333;
+  padding: 45vh 0 50vh 0;
+  background-color: #e0dfdd;
+  background-image: url("./../../assets/img/backgroundTwo.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  h2
+  {
+    text-shadow: 1.5px 1.5px whitesmoke;
+  }
+  a
+  {
+    background-color: rgba(20, 20, 20, 0.25);
+    color: whitesmoke;
+    padding: 15px 20px;
+    text-decoration: none;
+    transition: background-color 200ms;
+    height: 60px;
+    border-radius: 7px;
+  }
+
+  a:hover
+  {
+    background-color: rgba(20, 20, 20, 0.1);
+  }
+
+
+}
