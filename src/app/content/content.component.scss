@@ -1,8 +1,10 @@
 #About
 {
   padding: 4vh 0;
-  background-color: #121212;
-  color: #b7b7b7;
+  // background-color: #121212;
+  // color: #b7b7b7;
+  background-color: #eaeaea;
+  color: #121212;
   h3
   {
     font-weight: 600;
@@ -34,14 +36,26 @@
   {
     padding: 4vh 6vw;
   }
+  .col-sm-6
+  {
+    padding: 4vh 6vw;
+  }
 }
 
 
 #Examples
 {
-  color: #d7d7d7;
+  // color: #d7d7d7;
   // text-shadow: 1.5px 1.5px whitesmoke;
-  background-color: #181818;
+  // background-color: #181818;
+  background-color: #dddcd8;
+  color: #121212;
+  p
+  {
+    padding-top: 2vh;
+    font-weight: 600;
+  }
+
   .squares
   {
     height: 65vh;
